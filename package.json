@@ -11,7 +11,7 @@
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1",
-    "vue": "^3.2.44",
+    "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
